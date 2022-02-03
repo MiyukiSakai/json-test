@@ -1,7 +1,6 @@
 {
+	"userId": 1,
 	"id": 1,
-	"page": 10,
-	"text": "This is a test sentence.",
-	"chap": 1,
-	"Boolean": true
+	"title": "delectus aut autem",
+	"completed": false
 }
