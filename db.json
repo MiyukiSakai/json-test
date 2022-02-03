@@ -1,6 +1,10 @@
 {
-	"userId": 1,
-	"id": 1,
-	"title": "This is a test sentence.",
-	"completed": false
+	"todo": [
+	{
+            "id": 1,
+            "userId": 1,
+            "title": "This is a test sentence.",
+            "completed": false
+        }
+    ]
 }
